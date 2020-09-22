@@ -1,0 +1,25 @@
+.priority-filters {
+  display: flex;
+}
+
+.more-filters {
+  display: flex;
+  background-color: ghostwhite;
+}
+
+.control {
+  margin-left: 25px;
+}
+
+.apply {
+  margin-left: 10px;
+}
+
+.clear {
+  text-decoration: underline;
+}
+
+.dropdown-menu {
+  max-height: 250px;
+  overflow-y: auto;
+}
